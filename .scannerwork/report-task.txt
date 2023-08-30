@@ -1,0 +1,6 @@
+projectKey=CRUDLARAVEL
+serverUrl=http://localhost:9000
+serverVersion=9.0.1.46107
+dashboardUrl=http://localhost:9000/dashboard?id=CRUDLARAVEL
+ceTaskId=AYpElaGW-TGDWICx_7AG
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYpElaGW-TGDWICx_7AG
